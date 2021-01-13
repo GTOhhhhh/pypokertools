@@ -14,3 +14,5 @@ def test_isomorph():
 
     assert get_canonical(flop('Qs Qd 4d')) == flop('4c Qc Qd')
     assert get_translation_dict(flop('Qs Qd 4d')) == {'c': 'h', 'd': 'c', 'h': 's', 's': 'd'}
+
+# def My
