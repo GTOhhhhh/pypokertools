@@ -28,7 +28,7 @@ import re
 from collections import namedtuple
 from itertools import chain
 
-from pokertools import (
+from pypokertools.pokertools import (
     CANONICAL_HOLECARDS_NAMES,
     SUIT_COMBINATIONS,
     SUIT_PERMUATIONS,

@@ -1,5 +1,5 @@
-from examples.bluffing import get_bluffcandidates, is_bluffcandidate
-from pokertools import flop, holecards
+from pypokertools.examples.bluffing import get_bluffcandidates, is_bluffcandidate
+from pypokertools.pokertools import flop, holecards
 
 
 def test_get_bluffcandidates():
